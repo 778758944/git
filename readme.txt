@@ -7,4 +7,9 @@ ddd
 koko lplplp
 sdsdsd
 a9
+<<<<<<< HEAD
 aaaa10
+=======
+a10
+a11
+>>>>>>> dev
