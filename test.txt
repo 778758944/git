@@ -5,5 +5,3 @@ ccc
 ddd
 eee
 fff
-wewewew
-ssssdddd
